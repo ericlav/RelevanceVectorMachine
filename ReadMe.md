@@ -1,4 +1,4 @@
-Régression Bayésienne avec les Relevance Vector Machine
+# Régression Bayésienne avec les Relevance Vector Machine
 
 Ceci est le répertoire contenant les fichiers de code pour le projet de Christos Katsoulakis et Eric Lavergne.
 
